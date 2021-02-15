@@ -1,4 +1,4 @@
-:warning: Attention : Les règles législatives qui font tourner ce module seront mises à jour pendant un moment, mais l'interface ne va plus évoluer. Les travaux sont continués [ici](https://github.com/sgmap/syso).
+:warning: Attention : Les règles législatives qui font tourner ce module seront mises à jour pendant un moment, mais l'interface ne va plus évoluer. Les travaux sont continués sur [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise).
 
 > The legal rules behind this module will be maintained for a short while, but the interface will not and no new simulation features will be added here. See this [project](https://github.com/sgmap/syso) for the new simulators.
 
